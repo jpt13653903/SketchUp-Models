@@ -1,4 +1,4 @@
-# SketchUp Toolbox
+# SketchUp Models
 
 A collection of SketchUp models.  They are drawn, from scratch, following either the component data-sheet, physical measurements, or both.
 
