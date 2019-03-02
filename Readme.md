@@ -1,18 +1,18 @@
 # SketchUp Toolbox
 
-Collection of SketchUp models: mostly electronic components.
+A collection of SketchUp models.
 
 ## Chassis-Mount
 
 ![Thumbnails](Chassis-Mount.png)
 
-## Miscellaneous
-
-![Thumbnails](Miscellaneous.png)
-
 ## PCB-Mount
 
 ![Thumbnails](PCB-Mount.png)
+
+## Miscellaneous
+
+![Thumbnails](Miscellaneous.png)
 
 ----------------
 
